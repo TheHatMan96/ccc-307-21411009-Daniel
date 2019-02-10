@@ -1,0 +1,11 @@
+{
+  "name": "ccc-307-21411009-daniel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ccc-307-21411009-Daniel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
